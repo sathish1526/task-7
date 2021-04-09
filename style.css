@@ -1,0 +1,27 @@
+img{
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width:320px;
+    height:200px;
+}
+.elemant{
+    text-align: center;
+    color: blanchedalmond;
+    background-color: black;
+}
+.ourcontainer{
+    width:350px;
+    height:400px;
+    background-color: gray;
+}
+.newclass{
+    margin-top: 10px;
+}
+.elemant2{
+    text-align: center;
+}
+.custombtn{
+    text-align: center;
+}
